@@ -4,7 +4,8 @@ Unfortunately I started having issues with my hub replicator after the unprecede
 
 You are obviously free to (and I encourage you to) run it locally. Opencast supports the legacy replicator (check out the hub-monorepo around November last year) and the new replicator (hub-monorepo/apps/replicator) so you can use either. Running the replicator is quite challenging - please share your findings if you manage to successfully sync.
 
-# Opencast
+# Mach5cast implements Opencast(fork) The Opencast repo cloned to Mach5.cast on 12/11/2024 
+# (GOAL -> clone Farcaster and launch on PulseChain CHAINID: 369, set-up HUB - clone software, Launch Mach5 Wallet w/ Farcaster features)
 
 A fully open source Twitter flavoured Farcaster client. Originally a fork of [ccrsxx/twitter-clone](https://github.com/ccrsxx/twitter-clone).
 
